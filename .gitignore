@@ -25,6 +25,8 @@ temp/
 *.ini
 *.crc
 *_SUCCESS
+#archivos logs
+logs/
 # archivos generados por pyinstaller
 build
 dist
