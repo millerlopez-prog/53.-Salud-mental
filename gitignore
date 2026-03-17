@@ -1,0 +1,38 @@
+# archivos de cache y configuracion local
+.ipynb_checkpoints
+__pycache__/
+.vscode/
+.venv/
+venv/
+.env
+env
+
+# archivos de datos
+data/
+datos/
+_datos/
+temp/
+*.xlsx
+*.xls
+*.csv
+*.log
+*.zip
+*.pdf
+*.txt
+*.parquet
+*.xlsb
+*.7z
+*.ini
+*.crc
+*_SUCCESS
+# archivos generados por pyinstaller
+build
+dist
+*.spec
+*.exe
+
+# archivos de tableau
+*.hyper
+
+!requirements.txt
+

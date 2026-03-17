@@ -1,0 +1,17 @@
+{
+    "avicena": {
+        "base": "G:/.shortcut-targets-by-id/1wT-pRaNOECz6KC5hndveeLOIGY381o4T/Alteryx/Proyectos/102.Base_Cacterizacion/04_Salidas/Avicena_Consumo_Int/",
+        "plantilla": "{base}/{anio}/SALIDA_AVICENA_CONSUMO_INT_{periodo}.txt",
+        "delimiter": "|",
+        "encoding": "utf-8",
+        "columnas": ["FOLIO","FECHA_APERTURA_HC","FECHA_ATENCION_DATE","HORA_CIERRE_HC","SUCURSAL","TIPDOC_PACIENTE","NUMDOC_PACIENTE","SALUD_MENTAL","ESTADO_ENFERMEDAD","ESPECIALIDAD","NOMBRES_MEDICO","APELLIDOS_MEDICO","TIPO_DOC_MEDICO",
+        "NUM_DOC_MEDICO","CIUDAD","edad","sexo","cod_municip","Usuario_Compartido","Usuario_Pac","TIPO_DIAGNOSTICO_1"]
+    },
+    "cie-10": {
+        "base": "01_Docs/CIE10 SALUD MENTAL_Auditoria_1.xlsx",
+        "plantilla": "{base}",
+        "delimiter": ",",
+        "encoding": "utf-8",
+        "columnas": null
+    }
+}

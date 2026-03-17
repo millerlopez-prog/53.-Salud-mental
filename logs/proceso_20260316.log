@@ -1,0 +1,17 @@
+2026-03-16 16:07:13,001 - INFO - ==================================================
+2026-03-16 16:07:13,004 - INFO - INICIANDO PROCESO DE CARGA - BASE: 202602
+2026-03-16 16:07:13,005 - ERROR - Error crítico cargando JSON: [Errno 2] No such file or directory: 'config_rutas.json'
+2026-03-16 16:07:54,900 - INFO - ==================================================
+2026-03-16 16:07:54,901 - INFO - INICIANDO PROCESO DE CARGA - BASE: 202602
+2026-03-16 16:07:54,904 - WARNING - ARCHIVO NO ENCONTRADO para 'avicena': G:\...\Avicena_Consumo_Int\2026\SALIDA_AVICENA_CONSUMO_INT_202602.txt
+2026-03-16 16:07:54,905 - WARNING - ARCHIVO NO ENCONTRADO para 'caracterizacion': G:\...\Base_Caracterizacion\2026\REPORTE_GRAL_202602.csv
+2026-03-16 16:09:39,103 - INFO - ==================================================
+2026-03-16 16:09:39,104 - INFO - INICIANDO PROCESO DE CARGA - BASE: 202602
+2026-03-16 16:09:39,115 - INFO - Leyendo: avicena desde G:\.shortcut-targets-by-id\1wT-pRaNOECz6KC5hndveeLOIGY381o4T\Alteryx\Proyectos\102.Base_Cacterizacion\04_Salidas\Avicena_Consumo_Int\\2026\SALIDA_AVICENA_CONSUMO_INT_202602.txt
+2026-03-16 16:09:39,134 - ERROR - Error en columnas de 'avicena': Usecols do not match columns, columns expected but not found: ['FOLIO']
+2026-03-16 16:09:39,136 - WARNING - ARCHIVO NO ENCONTRADO para 'caracterizacion': G:\...\Base_Caracterizacion\2026\REPORTE_GRAL_202602.csv
+2026-03-16 16:10:03,265 - INFO - ==================================================
+2026-03-16 16:10:03,266 - INFO - INICIANDO PROCESO DE CARGA - BASE: 202602
+2026-03-16 16:10:03,277 - INFO - Leyendo: avicena desde G:\.shortcut-targets-by-id\1wT-pRaNOECz6KC5hndveeLOIGY381o4T\Alteryx\Proyectos\102.Base_Cacterizacion\04_Salidas\Avicena_Consumo_Int\\2026\SALIDA_AVICENA_CONSUMO_INT_202602.txt
+2026-03-16 16:10:11,235 - INFO - ÉXITO: 'avicena' cargado. Filas: 1689444 | Memoria: 270.68 MB
+2026-03-16 16:10:11,236 - WARNING - ARCHIVO NO ENCONTRADO para 'caracterizacion': G:\...\Base_Caracterizacion\2026\REPORTE_GRAL_202602.csv
