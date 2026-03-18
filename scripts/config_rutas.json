@@ -7,11 +7,26 @@
         "columnas": ["FOLIO","FECHA_APERTURA_HC","FECHA_ATENCION_DATE","HORA_CIERRE_HC","SUCURSAL","TIPDOC_PACIENTE","NUMDOC_PACIENTE","SALUD_MENTAL","ESTADO_ENFERMEDAD","ESPECIALIDAD","NOMBRES_MEDICO","APELLIDOS_MEDICO","TIPO_DOC_MEDICO",
         "NUM_DOC_MEDICO","CIUDAD","edad","sexo","cod_municip","Usuario_Compartido","Usuario_Pac","TIPO_DIAGNOSTICO_1"]
     },
-    "cie-10": {
-        "base": "01_Docs/CIE10 SALUD MENTAL_Auditoria_1.xlsx",
-        "plantilla": "{base}",
-        "delimiter": ",",
-        "encoding": "utf-8",
+    "utilizaciones": {
+        "base": "G:/.shortcut-targets-by-id/1e2ieoJan65FyqTpnYzMsthsoUCq0DTBS/6. Resultados en Salud/PYTHON/Bases/01.Utilizaciones/",
+        "plantilla": "{base}/{anio}/UTILIZACIONES_{periodo}.txt",
+        "delimiter": "|",
+        "encoding": "ISO-8859-1",
+        "columnas": ["DX1", "Fecha_prestacion", "Numero_Identificacion_Usuario", "TIPO_DOC"],
+        "meses_historia": 3
+    },
+    "autorizaciones": {
+        "base": "G:/.shortcut-targets-by-id/1uyoVEDDA_-tskYM08AbRYIVn64VmCNQm/Bases/02.Volantes/{anio}",
+        "plantilla": "{base}/Autorizaciones_{periodo}.txt",
+        "delimiter": "|",
+        "encoding": "ISO-8859-1",
+        "columnas": null
+    },
+    "medicamentos": {
+        "base": "G:/.shortcut-targets-by-id/1e2ieoJan65FyqTpnYzMsthsoUCq0DTBS/6. Resultados en Salud/PYTHON/Proyectos/00.Inversion Salud/03.Fuentes/03.MEDICAMENTOS",
+        "plantilla": "{base}/MEDICAMENTOS_{periodo}.txt",
+        "delimiter": "|",
+        "encoding": "ISO-8859-1",
         "columnas": null
     }
 }

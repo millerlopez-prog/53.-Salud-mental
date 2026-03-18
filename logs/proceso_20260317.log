@@ -5,3 +5,10 @@
 2026-03-17 08:08:24,449 - INFO - Éxito: avicena | Filas: 1689444
 2026-03-17 08:39:04,524 - INFO - Éxito: avicena | Filas: 1689444
 2026-03-17 09:59:53,858 - INFO - Éxito: avicena | Filas: 1689444
+2026-03-17 11:27:35,574 - INFO - Éxito: avicena | Filas: 1689444
+2026-03-17 11:59:33,232 - INFO - Éxito: avicena | Filas: 1689444
+2026-03-17 12:00:00,245 - ERROR - Error en usuarios_finales: 'usuarios_finales'
+2026-03-17 12:00:00,247 - WARNING - No existe: G:/.shortcut-targets-by-id/1uyoVEDDA_-tskYM08AbRYIVn64VmCNQm/Bases/01.Utilizaciones/{anio}/UTILIZACIONES_202602.txt
+2026-03-17 12:00:00,248 - WARNING - No existe: G:/.shortcut-targets-by-id/1uyoVEDDA_-tskYM08AbRYIVn64VmCNQm/Bases/02.Volantes/{anio}/Autorizaciones_202602.txt
+2026-03-17 12:02:55,967 - INFO - Éxito: medicamentos | Filas: 3042382
+2026-03-17 12:03:04,679 - INFO - Éxito: avicena | Filas: 1689444
